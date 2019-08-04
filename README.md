@@ -2,7 +2,7 @@
 
 - Detect Season accroding to the user location and month, display, simple image with text message.
 
-# This is for understanding react component life cycle method and props
+# Understanding React Life Cycle and props
 
  # Let's Excute it!
  

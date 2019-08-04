@@ -9,6 +9,7 @@
  1. Download repository
  2. npm install ( In downloaded repository) 
  3. Run npm start
+ 4. Done!
  
  # What I expect to see
  1. Alert Message from browser
